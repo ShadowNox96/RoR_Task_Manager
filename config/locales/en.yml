@@ -1,0 +1,29 @@
+---
+en:
+  activerecord:
+    models:
+      category:
+        one: Guardar Categoria
+        other: Categorias
+      task:
+        one: Tarea
+        other: Tareas
+    new_category: Nueva Categoria
+  categories:
+    form:
+      description: Description
+      name: Name
+    new_category: Nueva Categoria
+  common:
+    back: Atras
+  hello: Hello world
+  tasks:
+    errors:
+      invalid_dude_date: Invalid dude date
+      invalid_due_date: Invalid due date
+    form:
+      category: Category
+      description: Description
+      due_date: Due date
+      name: Name
+    new_task: Nueva Tarea
